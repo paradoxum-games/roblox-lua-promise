@@ -1,0 +1,19 @@
+{
+	"name": "@paradoxum-games/promise",
+	"version": "4.0.0",
+	"description": "Promise implementation for Roblox",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/paradoxum-games/promise.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/evaera/roblox-lua-promise/issues"
+	},
+	"homepage": "https://eryn.io/roblox-lua-promise/",
+	"files": [
+		"lib/**/*.lua",
+		"!lib/**/*.spec.lua",
+		"default.project.json"
+	]
+}
